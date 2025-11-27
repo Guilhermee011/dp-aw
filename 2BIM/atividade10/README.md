@@ -1,0 +1,1 @@
+Landing page criada com HTML semântico e CSS, incluindo cabeçalho, seções, rodapé, imagens, listas e formulário de contato.
