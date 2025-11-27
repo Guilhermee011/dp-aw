@@ -1,0 +1,1 @@
+Formulário de cadastro criado em HTML com campos de nome, e-mail, senha, cidade, estado, gênero e interesses. Estilizado com CSS, usando :focus e :hover para melhorar a aparência e a usabilidade.
