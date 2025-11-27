@@ -1,0 +1,1 @@
+foi criada uma página institucional. Utilizando HTML e  CSS.
