@@ -1,0 +1,1 @@
+Foi criada uma escala de títulos responsiva utilizando CSS, onde os tamanhos de H1, H2 e H3 se ajustam automaticamente ao viewport. A unidade vw garante tipografia fluida, enquanto clamp() define limites mínimos e máximos. Isso assegura legibilidade e hierarquia visual em diferentes tamanhos de tela.
